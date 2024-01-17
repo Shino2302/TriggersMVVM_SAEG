@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEbT+s6r0HEHOuI3xq57VwYi0KWnIBPxNr/SH5nGeAkPWeqp1RHNqOWhuhniwcyowjj5QaZqyRIm6yGyofkHPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cd19\\source\\repos\\TriggersMVVM_SAEG\\TriggersMVVM_SAEG\\TriggersMVVM_SAEG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cd19\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cd19\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cd19\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cd19\\.nuget\\packages\\xamarin.essentials\\1.8.1\\xamarin.essentials.1.8.1.nupkg.sha512",
+    "C:\\Users\\cd19\\.nuget\\packages\\xamarin.forms\\5.0.0.2622\\xamarin.forms.5.0.0.2622.nupkg.sha512"
+  ],
+  "logs": []
+}

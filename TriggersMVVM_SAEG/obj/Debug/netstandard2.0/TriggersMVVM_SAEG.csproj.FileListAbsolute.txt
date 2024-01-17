@@ -1,0 +1,16 @@
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\bin\Debug\netstandard2.0\TriggersMVVM_SAEG.deps.json
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\bin\Debug\netstandard2.0\TriggersMVVM_SAEG.dll
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\bin\Debug\netstandard2.0\TriggersMVVM_SAEG.pdb
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\obj\Debug\netstandard2.0\TriggersMVVM_SAEG.csproj.AssemblyReference.cache
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\obj\Debug\netstandard2.0\TriggersMVVM_SAEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\obj\Debug\netstandard2.0\Views\Categoria.xaml.g.cs
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\obj\Debug\netstandard2.0\TriggersMVVM_SAEG.AssemblyInfoInputs.cache
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\obj\Debug\netstandard2.0\TriggersMVVM_SAEG.AssemblyInfo.cs
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\obj\Debug\netstandard2.0\TriggersMVVM_SAEG.csproj.CoreCompileInputs.cache
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\obj\Debug\netstandard2.0\TriggersMVVM_SAEG.dll
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\obj\Debug\netstandard2.0\refint\TriggersMVVM_SAEG.dll
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\obj\Debug\netstandard2.0\TriggersMVVM_SAEG.pdb
+C:\Users\cd19\source\repos\TriggersMVVM_SAEG\TriggersMVVM_SAEG\obj\Debug\netstandard2.0\ref\TriggersMVVM_SAEG.dll
